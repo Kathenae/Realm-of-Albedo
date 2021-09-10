@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/car-tree-wood-impact-01.ogg-9ed1911c2f98a995015287d1c025e7e5.oggstr"
+
+[deps]
+
+source_file="res://Sounds/car-tree-wood-impact-01.ogg"
+dest_files=[ "res://.import/car-tree-wood-impact-01.ogg-9ed1911c2f98a995015287d1c025e7e5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

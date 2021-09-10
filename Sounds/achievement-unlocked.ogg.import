@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/achievement-unlocked.ogg-f1c690edeb10ce2a5593e3d45189f85b.oggstr"
+
+[deps]
+
+source_file="res://Sounds/achievement-unlocked.ogg"
+dest_files=[ "res://.import/achievement-unlocked.ogg-f1c690edeb10ce2a5593e3d45189f85b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

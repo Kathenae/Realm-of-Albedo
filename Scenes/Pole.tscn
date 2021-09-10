@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="CylinderMesh" id=1]
+top_radius = 5.0
+bottom_radius = 5.0
+height = 50000.0
+
+[node name="Pole" type="Spatial"]
+
+[node name="MeshInstance" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -25000, 0 )
+mesh = SubResource( 1 )
+material/0 = null
